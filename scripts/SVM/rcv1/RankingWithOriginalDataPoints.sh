@@ -32,7 +32,7 @@ regP=1000
 lrN=10
 testPath="hdfs:/rcv1.test"
 dataPath="hdfs:/rcv1.train"
-test100="false"
+test100="1,2,3,4,5"
 wPath="rank.resultLargeTest.txt"
 minPartN=1
 
