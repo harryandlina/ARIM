@@ -32,7 +32,7 @@ inerN=1000
 lrN=10
 testPath="rcv1.test"
 dataPath="rcv1.train"
-test100="false"
+test100="1,2,3,4,5"
 wPath="zip.resultLargeTest50.txt"
 minPartN=1
 
