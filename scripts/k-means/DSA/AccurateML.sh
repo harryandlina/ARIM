@@ -30,7 +30,7 @@ itN=100
 numFeatures=5625
 centerPath="DSA/part-00000"
 dataPath="hdfs:/DSA"
-test100="false"
+test100="1,2,3,4,5"
 isSparse="false"
 minPartN=1
 
