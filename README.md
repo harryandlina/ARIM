@@ -3,7 +3,7 @@ An accuracy-aware approximate processing framework for fast and accurate machine
 
 Full documentation: https://github.com/harryandlina/AccurateML/wiki
 
-Demostration with web UI (6.66 MB, 04:42): http://prof.ict.ac.cn/BigDataBench/wp-content/uploads/2017/03/Demo-of-AccurateML.mp4
+Demostration with web UI (6.66 MB, 04:42): https://github.com/harryandlina/AccurateML/raw/master/Demo%20of%20AccurateML.mp4
 
 ------Project at Institute of Computing Technology, Chinese Academy of Sciences------
 
