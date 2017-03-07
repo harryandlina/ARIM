@@ -2,7 +2,7 @@
 An accuracy-aware approximate processing framework for fast and accurate machine learning on Spark.
 
 Full documentation: https://github.com/harryandlina/AccurateML/wiki
-
+Demostration with web UI (6.66 MB, 04:42): http://prof.ict.ac.cn/BigDataBench/wp-content/uploads/2017/03/Demo-of-AccurateML.mp4
 
 ------Project at Institute of Computing Technology, Chinese Academy of Sciences------
 
