@@ -1,5 +1,5 @@
 # ARIM
-An accuracy-aware approximate processing framework for fast and accurate machine learning on Spark.
+An Accuracy-aware approximate processing framework for Real-time Iterative Machine Learning on Spark.
 
 Full documentation: https://github.com/harryandlina/ARIM/wiki
 
